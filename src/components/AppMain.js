@@ -1,15 +1,13 @@
 import React from 'react';
+import ProjectList from './pages/ProjectList';
 
-const AppMain = () => (
+const AppMain = props => (
   <div
     style={{
       fontSize: 'large',
     }}
   >
-    <p>
-      To get started, edit <code>src/App.js</code> and save to reload.
-    </p>
-    <p>てすとてすと</p>
+    <ProjectList props={props} />
   </div>
 );
 

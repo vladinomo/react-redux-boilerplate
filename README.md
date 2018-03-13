@@ -17,19 +17,3 @@ react+redux プロジェクトのボイラープレート。create-react-app で
 * prettier
 * eslint
 * flow
-
-## Todo
-
--[] 以下を導入して動作確認
-
-* styled-component
-
-* react-router
-
--[] Mock 実装
-
--[] ディレクトリ構成分ける
-
--[] reducer 回りのテスト環境整える
-
--[] 使い方 readme に書く(vscode で prettier 動かすのにそっちに入れとくものとかその辺)
